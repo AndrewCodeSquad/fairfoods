@@ -1,0 +1,22 @@
+{
+  "name": "fairfoods",
+  "version": "1.0.0",
+  "description": "Fair Foods Reservation System for Lena Park",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCodeSquad/fairfoods.git"
+  },
+  "author": "Andrew Ott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCodeSquad/fairfoods/issues"
+  },
+  "homepage": "https://github.com/AndrewCodeSquad/fairfoods#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
